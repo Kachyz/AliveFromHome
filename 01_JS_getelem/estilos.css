@@ -1,0 +1,12 @@
+button {
+  margin: 5px;
+  font-size: 14px;
+}
+
+.letrasRojas {
+  color: red;
+}
+
+.subrayar {
+  text-decoration: underline;
+}
