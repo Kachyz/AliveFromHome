@@ -1,0 +1,30 @@
+button {
+  border-radius: 15px;
+}
+
+h3 {
+  width: 50px;
+  margin: 0;
+  text-align: center;
+}
+
+#resultado {
+  color: blue;
+}
+
+.group {
+  display: inline-block;
+  text-align: center;
+}
+
+.menos {
+  background-color: orange;
+}
+
+.mas {
+  background-color: green;
+}
+
+.container {
+  display: flex;
+}
